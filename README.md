@@ -1,4 +1,5 @@
 # [SVG Türkiye Haritası](http://dnomak.com.tr/svg-turkiye-haritasi/)
+## MEB Müfettişlik Ataması için tarafımca düzenlenmiştir...
 
 Bu SVG Türkiye Haritasında İstanbul Asya ve Avrupa ayrı Kıbrıs da var hem de Responsive.
 
